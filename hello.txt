@@ -3,3 +3,4 @@ diy -version  newbi plus
 main -version
 Git-Temp-space2
 Test-hello
+manual test
